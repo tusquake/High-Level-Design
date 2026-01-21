@@ -1,4 +1,5 @@
 # Latency vs Throughput vs Bandwidth
+<img width="1024" height="1024" alt="Gemini_Generated_Image_1xolz61xolz61xol" src="https://github.com/user-attachments/assets/d04fcef4-38a9-4dfc-b504-ed161e2dc3d1" />
 
 ## What is this concept?
 
@@ -244,5 +245,6 @@ Example:
 - **"Batching increases throughput but adds latency"** — Classic trade-off
 - **"CDNs solve latency, horizontal scaling solves throughput"** — Right tool for right problem
 - **"Bandwidth is rarely the bottleneck for APIs"** — For typical APIs, latency/throughput matter more
+
 
 ---
