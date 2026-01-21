@@ -1,4 +1,5 @@
 # Availability
+<img width="1024" height="1024" alt="Gemini_Generated_Image_v5udx9v5udx9v5ud" src="https://github.com/user-attachments/assets/e89db9a3-06d4-41d3-993d-d72da1d07a48" />
 
 ## What is this concept?
 
@@ -322,5 +323,6 @@ For critical data (payments, orders), use synchronous replication. For less crit
 - **"Circuit breakers prevent cascading failures"** — One service going down shouldn't bring down the entire system.
 
 - **"Chaos engineering in production builds confidence"** — Netflix's Chaos Monkey approach proves your system can handle failures before customers discover them.
+
 
 ---
