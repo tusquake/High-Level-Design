@@ -1,4 +1,5 @@
 # Scalability
+<img width="1024" height="1024" alt="Gemini_Generated_Image_char3wchar3wchar" src="https://github.com/user-attachments/assets/72957b52-add5-490f-8b69-cde2e29efeff" />
 
 ## What is this concept?
 
@@ -272,5 +273,6 @@ Example: AWS Auto Scaling Groups, Kubernetes HPA (Horizontal Pod Autoscaler)
 - **Cost awareness:** "Netflix runs thousands of instances but uses auto-scaling to turn off instances during low-traffic hours, saving millions."
 
 - **"Design for 10x, not 100x"** — Over-engineering too early wastes time and money. Scale in stages as you grow.
+
 
 ---
