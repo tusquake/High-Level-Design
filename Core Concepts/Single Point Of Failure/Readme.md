@@ -1,4 +1,5 @@
 # Single Point of Failure (SPOF)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_px1ltypx1ltypx1l" src="https://github.com/user-attachments/assets/07830969-b884-4867-8804-1e0853bf3bcf" />
 
 ## What is this concept?
 
@@ -576,3 +577,4 @@ Yes! Common people SPOFs:
 - **"SPOFs exist at every layer"** — Infrastructure (servers), application (services), data (databases), network, people, processes.
 
 - **"Chaos engineering finds SPOFs before customers do"** — Netflix deliberately breaks things in production to ensure resilience.
+
