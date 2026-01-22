@@ -1,4 +1,5 @@
 # Reliability
+<img width="1024" height="1024" alt="Gemini_Generated_Image_oz0wjyoz0wjyoz0w" src="https://github.com/user-attachments/assets/44cad195-29f2-4c38-9fad-2f4adda9cda4" />
 
 ## What is this concept?
 
@@ -454,5 +455,3 @@ Graceful degradation means the system continues operating with reduced functiona
 - **"Compensating transactions over distributed ACID"** — In distributed systems, true ACID is nearly impossible. Saga pattern with compensating actions is more practical.
 
 ---
-
-> Next HLD topic ready.
