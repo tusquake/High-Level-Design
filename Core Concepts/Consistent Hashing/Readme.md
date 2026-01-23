@@ -1,4 +1,5 @@
 # Consistent Hashing
+<img width="1024" height="1024" alt="Gemini_Generated_Image_k5qrupk5qrupk5qr" src="https://github.com/user-attachments/assets/b433db24-2ce2-49d0-9c2d-17b2b0d3cc4d" />
 
 ## What is this concept?
 
@@ -381,5 +382,6 @@ Yes! If certain keys are very popular:
 **Real-world insight:** "When Discord scaled, they used consistent hashing to distribute guilds across servers. Adding new servers only required moving ~10% of guilds, not all of them."
 
 **Cost awareness:** "Consistent hashing enables auto-scaling without massive cache invalidation, reducing database load and infrastructure costs."
+
 
 ---
