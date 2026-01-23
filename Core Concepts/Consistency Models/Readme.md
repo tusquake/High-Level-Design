@@ -1,4 +1,5 @@
 # Consistency Models
+<img width="1024" height="1024" alt="Gemini_Generated_Image_stfl1tstfl1tstfl" src="https://github.com/user-attachments/assets/6d14e995-9c6c-46c8-b92e-0645dc32d96f" />
 
 ## What is this concept?
 
@@ -474,5 +475,6 @@ A user always sees their own updates immediately (even with eventual consistency
 **Real-world insight:** "Amazon shopping cart uses eventual consistency with conflict-free merging. If you add items on phone and laptop simultaneously, both items appear in cart—system merges rather than choosing one."
 
 **Links to CAP:** "Strong consistency sacrifices availability during partitions (CP). Eventual consistency maintains availability but sacrifices consistency (AP)."
+
 
 ---
