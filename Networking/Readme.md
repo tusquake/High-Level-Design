@@ -1,4 +1,5 @@
 # OSI Model
+<img width="1024" height="1024" alt="Gemini_Generated_Image_t0qpoat0qpoat0qp" src="https://github.com/user-attachments/assets/a81e9f8c-a27f-4ca5-8d35-03f5c3895194" />
 
 ## What is this concept?
 
@@ -464,5 +465,6 @@ Layer 7: Receives original data
 **Real-world insight:** "When debugging network issues, we use OSI layers to isolate problems. Is the cable plugged in? (Layer 1) Can you ping the IP? (Layer 3) Is the service listening on the port? (Layer 4) This systematic approach saves hours."
 
 **Link to system design:** "In microservices, service meshes operate at Layer 7, inspecting and routing HTTP traffic between services. Understanding OSI helps architect these systems correctly."
+
 
 ---
