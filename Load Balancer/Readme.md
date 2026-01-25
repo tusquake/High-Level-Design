@@ -1,4 +1,5 @@
 # Load Balancing
+<img width="1024" height="1024" alt="Gemini_Generated_Image_amdedfamdedfamde" src="https://github.com/user-attachments/assets/ae690956-64f0-4e5e-8adb-f2a5fbae71ad" />
 
 ## What is this concept?
 
@@ -1018,5 +1019,6 @@ User → ALB → API Gateway →
 **Real-world insight:** "Netflix uses multi-tier load balancing: Route 53 for geo-routing → ELB per region → Zuul (API gateway) for microservices → thousands of servers. Each layer serves a purpose: global distribution, regional failover, intelligent routing, and server distribution."
 
 **System design context:** "For e-commerce design: Cloudflare (DDoS + global LB) → AWS ALB (SSL termination, path routing /api vs /static) → Application servers. This protects against attacks, provides geographic distribution, and enables microservices architecture."
+
 
 ---
