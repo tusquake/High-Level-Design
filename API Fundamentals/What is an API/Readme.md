@@ -1,4 +1,5 @@
 # API (Application Programming Interface)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_bp0rq7bp0rq7bp0r (1)" src="https://github.com/user-attachments/assets/88626672-d46c-4954-a53d-dc928234794d" />
 
 ## What is this concept?
 
@@ -665,5 +666,6 @@ Exceed → 429 Too Many Requests
 - **"Use proper status codes"** — 201 for created, 204 for deleted, 404 for not found
 
 **Real-world insight:** "Netflix API Gateway (Zuul) handles billions of requests daily, routing to 500+ microservices with authentication, rate limiting, and circuit breaking—all without touching individual services."
+
 
 ---
